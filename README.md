@@ -1,6 +1,6 @@
 # Cointrol
 
-Cointrol is a Bitcoin trading bot and real-time dashboard for [Bitstamp](https://bitstamp.net) created by [@jakubroztocil](https://twitter.com/jakubroztocil).
+Cointrol is a Bitcoin trading bot and real-time dashboard for [Bitstamp](https://bitstamp.net) created by [@jakubroztocil](https://twitter.com/jakubroztocil). 수정 sfex
 
 ![Dashboard in the browser](_/browser.png "Dashboard in the browser")
 
